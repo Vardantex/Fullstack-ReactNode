@@ -1,0 +1,29 @@
+
+#nav-ul {
+
+    list-style: none;
+    /* position: absolute; */
+}
+
+#nav-ul li {
+    display: inline;
+    padding-left: 10px;
+}
+
+#nav-ul a {
+
+}
+
+#nav-main {
+
+    position: relative;
+
+}
+
+
+#button-course td{
+
+    padding: 10px;
+
+}
+
